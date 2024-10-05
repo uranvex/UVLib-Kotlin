@@ -1,0 +1,4 @@
+name: UVLib
+version: '1.0'
+main: uv.uranvex.uvlib.UVLib
+api-version: '1.16'
